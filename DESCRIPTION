@@ -1,0 +1,11 @@
+Package: aardvark
+Type: Package
+Title: R package management system
+Version: 1.0
+Date: 2018-03-01
+Author: Jeremy Stephens
+Maintainer: Jeremy Stephens <jeremy.stephens@vanderbilt.edu>
+Description: CRAN alternative for installing and submitting packages as well as
+  managing package versions
+License: MIT
+Depends: jsonlite, RCurl
