@@ -1,5 +1,5 @@
-\name{list_package}
-\alias{list_package}
+\name{list_packages}
+\alias{list_packages}
 \title{
   List packages available in the Aardvark repository
 }
